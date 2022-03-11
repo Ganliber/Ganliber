@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 Welcom to my page!<p></p>
 ### About me
 👶 A rookie in the field of information security,currently living in China.<p>
-👯 I’m looking to collaborate on Linux kernel and software security.<p>
-🏀 basketball fan<p>
-🎧 pure music lovers<p>
+👯 Looking to collaborate on Linux kernel and software security.<p>
+<!-- 🏀 basketball fan<p>
+🎧 pure music lovers<p> -->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganliber&show_icons=true&theme=tokyonight)
