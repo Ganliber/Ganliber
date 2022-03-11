@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hiya 👋
 
 <!--
 **Ganliber/Ganliber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: basketball, music and travelling.
 - ⚡ Fun fact: ...
 -->
-Welcom to my page!<p>
-👶 This is Gecen Gan, a rookie in the field of information security,currently living in 🇨🇳 China.
-<p><b>🏀 Basketball fan</b><p>
-![Gan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganliber&show_icons=true&theme=radical)
+Welcom to my page!<p></p>
+### About me
+👶 A rookie in the field of information security,currently living in China.<p>
+👯 I’m looking to collaborate on Linux kernel and software security.<p>
+🏀 basketball fan<p>
+🎧 pure music lovers<p>
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganliber&show_icons=true&theme=tokyonight)
