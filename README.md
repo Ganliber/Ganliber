@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Welcom to my page!<p>
 👶 This is Gecen Gan, a rookie in the field of information security,currently living in 🇨🇳 China.
 <p><b>🏀 Basketball fan</b><p>
-![Ganliber's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Gan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganliber&show_icons=true&theme=radical)
