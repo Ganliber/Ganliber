@@ -22,3 +22,6 @@ Welcom to my page!<p></p>
 🎧 pure music lovers<p> -->
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganliber&show_icons=true&theme=tokyonight)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganliber&layout=compact)](https://github.com/Ganliber/github-readme-stats)
+
