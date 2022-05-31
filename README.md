@@ -18,6 +18,7 @@ Welcom to my page!<p></p>
 ### About me
 👶 A rookie in the field of information security, currently living in China.<p>
 👯 Looking to collaborate on Linux kernel and software security.<p>
+💰 Also interested in Fintech & Blockchain Security.<p>
 <!-- 🏀 basketball fan<p>
 🎧 pure music lovers<p> -->
 
