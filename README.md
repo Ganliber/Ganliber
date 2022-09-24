@@ -28,4 +28,4 @@ Welcom to my page!<p></p>
 #### Favorite Languages
 ![](https://img.shields.io/badge/language-C-orange.svg) ![](https://img.shields.io/badge/language-Rust-blue.svg)  ![](https://img.shields.io/badge/language-C++-purple.svg)  ![](https://img.shields.io/badge/language-Python-green.svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganliber&layout=compact&hide=perl,ada,makefile,html)](https://github.com/Ganliber/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganliber&layout=compact&hide=perl,ada,makefile,assembly)](https://github.com/Ganliber/github-readme-stats)
