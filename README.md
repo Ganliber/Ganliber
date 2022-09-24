@@ -27,6 +27,5 @@ Welcom to my page!<p></p>
 ### Languages and Tools
 #### Favorite Languages
 ![](https://img.shields.io/badge/language-C-orange.svg) ![](https://img.shields.io/badge/language-Rust-blue.svg)  ![](https://img.shields.io/badge/language-C++-purple.svg)  ![](https://img.shields.io/badge/language-Python-green.svg)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganliber&layout=compact)](https://github.com/Ganliber/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganliber&layout=compact)](https://github.com/Ganliber/github-readme-stats)
