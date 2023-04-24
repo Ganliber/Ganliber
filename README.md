@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 👶 A rookie in the field of information security, currently living in China.<p>
 👯 Looking to collaborate on Linux kernel and software security.<p>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganliber&show_icons=true&theme=tokyonight)
-<!--
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganliber&show_icons=true&theme=tokyonight)
+
 ### Languages and Tools
 #### Favorite Languages
 ![](https://img.shields.io/badge/language-C-orange.svg)   ![](https://img.shields.io/badge/language-C++-ffb964.svg)   ![](https://img.shields.io/badge/language-Rust-blueviolet.svg)    ![](https://img.shields.io/badge/language-Python-green.svg)   ![](https://img.shields.io/badge/language-Golang-blue.svg)
